@@ -1,0 +1,13 @@
+.dropdown-menu{
+    transform: translateX(460px);
+}
+
+.chat{
+    overflow-y: scroll;
+    height: 50vh;
+    
+}
+
+.mess{
+    overflow-y: scroll;
+}
